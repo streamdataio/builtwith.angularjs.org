@@ -1,6 +1,23 @@
 {
   "featured": "YouTube on PS3",
   "projects": [
+    {
+      "name": "JSON Patch DEMO",
+      "thumb": "JSONPatchDemo/thumb.png",
+      "desc": "Turn a JSON API into a data stream (SSE) in JSON Patch. You can try with any JSON API",
+      "url": "http://angular-streamdataiodemo.rhcloud.com/",
+      "info": "http://streamdata.io",
+      "src": "https://github.com/streamdataio/streamdataio-js",
+      "submitter": "https://github.com/allandenis38",
+      "submissionDate": "2015-07-20",
+      "tags": [
+        "Demo",
+        "Productivity",
+        "JSON Patch",
+        "ServerSent Events",
+        "Open Source" 
+      ]
+  },
   {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
